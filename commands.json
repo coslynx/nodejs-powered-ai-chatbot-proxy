@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "npm install",
+    "npm run build",
+    "mongod",
+    "mongo",
+    "npm start"
+  ]
+}
